@@ -1,36 +1,39 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+website:https://blog-zeta-ashen.vercel.app/
 
-## Getting Started
+1. Homepage
+![image](https://github.com/mprudentio/blog/assets/91424522/5c413511-2310-44a7-b32b-132c4bf7e862)
 
-First, run the development server:
+-Blog Post List: Users can navigate to other blog posts through the pagination
+![image](https://github.com/mprudentio/blog/assets/91424522/1afc11fe-f1c4-42b4-bd3a-d324f57705b3)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+2. Blog Post Detail:If a user clicks on one of the blog post listings, they will be redirected to the respective blog post's details page, where they can view the entire body of the blog post as well as any associated comments
+![image](https://github.com/mprudentio/blog/assets/91424522/855e7784-bf44-4956-a220-bd32ac3dabf1)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+3. Users Page
+![image](https://github.com/mprudentio/blog/assets/91424522/4742faae-fd41-4b9f-956a-d3df12fede92)
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+-Create a new user
+![image](https://github.com/mprudentio/blog/assets/91424522/4cab4ce2-7469-48ee-8bdc-348d24639713)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+There is also a validation of each input
+![image](https://github.com/mprudentio/blog/assets/91424522/23b7d7c2-68cf-4842-8ec1-432aa30a3e33)
 
-## Learn More
+If it is succesful in creating a user
+![image](https://github.com/mprudentio/blog/assets/91424522/af727b62-4729-45f8-8356-c25c39954b5d)
 
-To learn more about Next.js, take a look at the following resources:
+-Update User
+![image](https://github.com/mprudentio/blog/assets/91424522/a0fff3ea-37ed-4530-92db-6282d5cf5c01)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+If it is successful
+![image](https://github.com/mprudentio/blog/assets/91424522/0e656f28-f30b-4cd7-9baa-8ae973391bf5)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+-Delete User: Will show an alert to confirm whether  you want to delete that user or not
+![image](https://github.com/mprudentio/blog/assets/91424522/61293f51-8394-4ea7-af9c-307945178cb2)
 
-## Deploy on Vercel
+If user wants to delete it and it is successful
+![image](https://github.com/mprudentio/blog/assets/91424522/89f9e7f3-b192-4ab0-8493-4c4d9d58709a)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+
