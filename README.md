@@ -5,6 +5,8 @@ website:https://blog-zeta-ashen.vercel.app/
 
 -Blog Post List: Users can navigate to other blog posts through the pagination
 ![image](https://github.com/mprudentio/blog/assets/91424522/1afc11fe-f1c4-42b4-bd3a-d324f57705b3)
+![image](https://github.com/mprudentio/blog/assets/91424522/588f1e7b-9cc5-43f8-80a0-1ec3589d572d)
+
 
 2. Blog Post Detail:If a user clicks on one of the blog post listings, they will be redirected to the respective blog post's details page, where they can view the entire body of the blog post as well as any associated comments
 ![image](https://github.com/mprudentio/blog/assets/91424522/855e7784-bf44-4956-a220-bd32ac3dabf1)
